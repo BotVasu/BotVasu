@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BotVasu
 - 👀 I’m interested in Web Design and Development
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript and Python
 - 💞️ I’m looking to collaborate on Front End Design
 - 📫 How to reach me : shirakounny@gmail.com
 
