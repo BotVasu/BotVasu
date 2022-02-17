@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Design and Development
 - 🌱 I’m currently learning Javascript and Python
 - 💞️ I’m looking to collaborate on Front End Design
-- 📫 How to reach me : vasu.bhan@gmail.com
+- 📫 How to reach me : vasu.bhan@yahoo.com
 
 <!---
 BotVasu/BotVasu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
