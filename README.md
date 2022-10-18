@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vasu Bhan.
-- 👀 I’m interested in Web Design and Development
+- 👀 I’m interested in Web Design and Development, Web Application Testing, Cyber Security
 - 🌱 I’m currently learning Javascript and Python
-- 💞️ I’m looking to collaborate on Front End Design
+- 💞️ I’m looking to collaborate on Front End Design, Cyber Security
 - 📫 How to reach me : vasu.bhan@yahoo.com
 
 <!---
